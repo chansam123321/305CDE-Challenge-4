@@ -1,0 +1,35 @@
+body {
+    background-color: #e6f7ff;
+}
+
+h1 {
+
+    color: navy;
+    width: 350px;
+    height: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 250%
+}
+.type{
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.type2{
+  width: 1500px;
+  border-style:outset;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius:10px;
+}
+.Output{
+  background-color:#eff5f5;
+  width: 1500px;
+  height: 110px;
+  border-style:inset;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius:10px;
+
+}
